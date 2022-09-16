@@ -6,6 +6,9 @@
 
 <br>
 
+### 👩🏾‍💼 💼 [Clique para ver todos os repositórios](https://github.com/Geice-Sousa?tab=repositories)
+
+<br>
 
 ### 🎯 [Clique para acessar](https://geice-sousa.github.io/meu-perfil/)
 
