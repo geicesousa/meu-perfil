@@ -7,7 +7,7 @@
 <br>
 
 
-### 🎯 [Clique para acessar]("https://geice-sousa.github.io/meu-perfil/")
+### 🎯 [Clique para acessar](https://geice-sousa.github.io/meu-perfil/)
 
 <br>
 
