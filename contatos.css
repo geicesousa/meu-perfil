@@ -4,11 +4,15 @@ body {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
+footer {
+    font-style: italic;
+    text-align: center;
+}
+
 form input[type=text] {
     padding: 5px;
     width: 40%;
 }
-
 form input[type=submit] {
     text-align: right;
    /*como colocar alinhado com o quadrado? obs.: dei um 
@@ -33,9 +37,4 @@ form input[type=submit] {
 
 .modal a {
     float: right;
-}
-
-footer {
-    font-style: italic;
-    text-align: center;
 }
