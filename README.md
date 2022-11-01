@@ -3,7 +3,7 @@
 
 ![miniatura da página](./geice-sousa.github.io_meu-perfil_.png)
 
-### ✨ 🎖️ Projeto construído para compor meu portfólio 🌺 😊
+### ✨ 🎖️ Projeto construído para ser meu portfólio 🌺 😊
 
 <br>
 
