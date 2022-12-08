@@ -2,12 +2,31 @@ body{
     background-color: black;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: aliceblue;
-    padding: 20px 20px 0px 20px;
     width: 580px;
     width: 90%;
     margin:auto;
     margin-top: 20px;
-   
+    padding: 20px;
+    border: #C5DECD solid 15px;
+}
+
+button{
+    font-size: xx-small;
+    font-weight: 700;
+    text-transform: uppercase;
+    border: aliceblue solid 2px;
+    color: aliceblue;
+    border-radius: 15px;
+    background-color: transparent;
+}
+button:hover{
+    cursor: pointer;
+}
+
+.dark-mode{
+    background-color: #C5DECD;
+    color: black;
+    border: aliceblue solid 15px;
 }
 
 header img {
@@ -74,7 +93,6 @@ a{
 .redes-sociais li{
     list-style: none;
     display: inline;
-   
 }
 
 .redes-sociais img{
@@ -83,13 +101,4 @@ a{
     border-radius: 30%;
     padding: 5px;
     text-align: center;
-    
 }
-
-
-
-
-
-
-
-

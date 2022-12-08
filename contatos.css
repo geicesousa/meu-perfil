@@ -1,7 +1,30 @@
 body {
     padding: 20px 40px;
-    background-color: gainsboro;
+    background-color: #C5DECD;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 20px;
+    border: aliceblue solid 15px;
+    margin: 50px;
+}
+
+button{
+    font-size: xx-small;
+    font-weight: 700;
+    text-transform: uppercase;
+    border: aliceblue solid 2px;
+    color: aliceblue;
+    border-radius: 15px;
+    background-color: transparent;
+}
+button:hover{
+    cursor: pointer;
+}
+
+.dark-mode{
+    background-color: #000000;
+    color: aliceblue;
+    border: aliceblue solid 15px;
+
 }
 
 footer {
